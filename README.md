@@ -4,7 +4,8 @@
 
 A [Flarum](http://flarum.org) extension. Add autocomplete function to Flarum Composer
 
-![2pemdzwCtu](https://user-images.githubusercontent.com/79002016/147260694-682f53bc-918e-4e01-9aa1-f8c321e57e7c.gif)
+
+![zUKTwOqbcJ](https://user-images.githubusercontent.com/79002016/147261620-b8b6d5e4-ec20-4a83-ae03-1e51ff820ff0.gif)
 
 
 ## Installation
