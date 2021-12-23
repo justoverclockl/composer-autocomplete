@@ -1,0 +1,7 @@
+justoverclock-composer-autocomplete:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n.html#appendix-a-standard-key-format
+  admin:
+    settingsTitle: "AutoComplete Key and values:"
+    settingsSubTitle: In this page you can configure your predefined sentence for composer autocomplete.
+  forum:

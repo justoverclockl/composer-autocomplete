@@ -1,0 +1,40 @@
+{
+    "name": "justoverclock/composer-autocomplete",
+    "description": "Add autocomplete function to Flarum Composer",
+    "keywords": [
+        "autocomplete",
+        "composer autocomplete",
+        "predefined"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "require-dev": {
+        "flarum/testing": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\ComposerAutoComplete\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "AutoComplete",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-wpforms",
+                "backgroundColor": "yellow",
+                "color": "black"
+            }
+        }
+    }
+}
